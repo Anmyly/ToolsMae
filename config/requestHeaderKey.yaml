@@ -1,0 +1,17 @@
+REQUEST_HEADERS:  # 不含referer参数
+  - accept
+  - accept-encoding
+  - accept-language
+  - cache-control
+  - connection
+  - cookie
+  - host
+  - sec-fetch-dest
+  - sec-fetch-mode
+  - sec-fetch-site
+  - sec-fetch-user
+  - upgrade-insecure-requests
+  - user-agent
+  - sec-ch-ua
+  - sec-ch-ua-mobile
+  - sec-ch-ua-platform
